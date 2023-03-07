@@ -1,0 +1,145 @@
+1,2,3,4,5,6,7,8,9
+"['Prv', 'Sto']","['Prv', 'Sto']",['Vas'],"['Vac', 'Pud']","['Boř', 'Pud']",,['Řeh'],,
+['Koh'],['Vas'],['Sko'],"['Vac', 'Pud']",,"['Hoš', 'Mar']","['Hoš', 'Mar']","['Pud', 'Ves']","['Pud', 'Ves']"
+"['Boř', 'Pud']",['Pav'],"['Řeh', 'Vas']","['Řeh', 'Vas']",['Kor'],['Koh'],"['Vac', 'Pud']",,
+['Řeh'],"['Vac', 'Pud']",['Sko'],['Mac'],['Vas'],['Kor'],,,
+"['Lew', 'Ute']",['Pav'],"['Boř', 'Pud']",['Kut'],,['Řeh'],['Mac'],,
+
+"['Štu', 'Pán']","['Štu', 'Pán']","['Sko', 'Šva']",['Vas'],"['Hoš', 'Mar']","['Hoš', 'Mar']",,,
+['Nov'],['Mac'],"['Kuc', 'Vas']","['Kuc', 'Vas']",['Dra'],,"['Ere', 'Vac']",,
+['Kuc'],['Vas'],"['Ere', 'Vac']","['Sko', 'Šva']","['Cha', 'Ves']","['Cha', 'Ves']","['Mac', 'Nov', 'Mac', 'Nov']",,
+['Vas'],['Dra'],"['Ere', 'Vac']",['Kut'],['Pav'],"['Sko', 'Šva']",['Kuc'],,
+['Mac'],['Kuc'],['Pav'],"['Ere', 'Vac']",,['Mer'],['Nov'],,
+
+"['Cha', 'Ves']","['Cha', 'Ves']","['Boř', 'Míš']",['Sko'],['Nov'],['Míš'],,,
+['Ran'],['Kut'],"['Boř', 'Míš']","['Kaj', 'Šva']","['Míš', 'Nov']","['Míš', 'Nov']",,,
+['Míš'],"['Boř', 'Míš']",['Sko'],['Nov'],['Pav'],,,,
+"['Pán', 'Pěn']","['Pán', 'Mar']","['Cha', 'Ves']",['Nov'],"['Kaj', 'Šva']",['Míš'],,,
+"['Štu', 'Prv']","['Štu', 'Prv']",['Pán'],"['Boř', 'Míš']",['Pav'],['Mac'],,,
+
+['Pro'],['Mer'],"['Ere', 'Sto']",['Pav'],['Kor'],"['Šed', 'Šte', 'Šed', 'Šte']",,,
+['Šte'],['Lis'],"['Pud', 'Beš']","['Wag', 'Dav']",['Pav'],,,,
+"['Mer', 'Kor']","['Ere', 'Sto']","['Mer', 'Kor']","['Mar', 'Pěn']",['Šed'],,,,
+['Mer'],"['Wag', 'Dav']",['Lis'],['Kor'],,"['Pud', 'Beš']","['Pud', 'Beš']",,
+"['Šed', 'Pán']","['Šed', 'Pán']","['Ere', 'Sto']",['Mer'],['Šed'],['Kor'],,,
+
+"['Řeh', 'Bri']",['Nov'],"['Řeh', 'Bri']",['Klo'],,"['Ere', 'Fle']",['Klo'],,
+"['Ere', 'Fle']",['Tes'],"['Ere', 'Hru']",['Bri'],['Klo'],['Dra'],,['Šva'],
+"['Ere', 'Fle']",['Řeh'],['Nov'],['Klo'],"['Ere', 'Hru']",['Tom'],['Tom'],,
+"['Ere', 'Fle']",['Bri'],['Šva'],"['Hoš', 'Cón']","['Hoš', 'Cón']",['Řeh'],,"['Tom', 'Beš']","['Tom', 'Beš']"
+['Dra'],"['Lew', 'Ute']","['Pro', 'Prv']","['Pro', 'Prv']","['Ere', 'Hru']","['Lew', 'Fle', 'Kuc']","['Lew', 'Fle', 'Kuc']",,
+
+"['Šob', 'Maj']",['Pěn'],"['Štu', 'Prv']","['Štu', 'Prv']",['Šte'],['Mer'],['Mer'],,
+['Hor'],['Ran'],"['Tol', 'Čer']","['Tom', 'Beš']","['Tom', 'Beš']",,['Kor'],['Mer'],
+"['Hoš', 'Cón']","['Hoš', 'Cón']",['Pěn'],['Hor'],"['Tol', 'Čer']",['Šte'],,,
+['Ran'],"['Šob', 'Maj']",['Tes'],"['Mer', 'Šte']","['Mer', 'Šte']",,"['Kor', 'Hor', 'Kor', 'Hor']","['Lew', 'Ute', 'Mar', 'Háj']","['Lew', 'Ute', 'Mar', 'Háj']"
+['Mer'],"['Tol', 'Čer']",['Kor'],"['Šob', 'Maj']",,"['Lew', 'Fle', 'Kuc', 'Šed', 'Sto']","['Lew', 'Fle', 'Kuc', 'Šed', 'Sto']",,
+
+['Ert'],"['Pyt', 'Maj']","['Čer', 'Wal']",['Kmp'],['Řeh'],['Pyt'],,,
+['Mac'],"['Pyt', 'Kmp']","['Štu', 'Pán']","['Štu', 'Pán']",['Sto'],"['Pyt', 'Kmp']",,,
+['Pyt'],['Mac'],"['Čer', 'Wal']","['Pyt', 'Maj']",['Dra'],['Kmp'],,,
+['Ert'],"['Čer', 'Wal']",['Kmp'],['Pyt'],['Klo'],,,
+"['Cha', 'Beš', 'Cha', 'Beš']","['Cha', 'Beš', 'Cha', 'Beš']",['Řeh'],"['Čer', 'Wal']","['Mar', 'Pěn']","['Pyt', 'Maj']",,,
+
+['Pin'],"['Vac', 'Kaj']","['Cha', 'Ves', 'Cha', 'Ves']","['Cha', 'Ves', 'Cha', 'Ves']",['Mac'],['Hor'],,,
+['Pěn'],"['Sko', 'Maj']","['Pro', 'Sto']","['Pro', 'Sto']",['Kuc'],['Pin'],,,
+['Šva'],['Hor'],['Kuc'],"['Vac', 'Kaj']",['Pin'],,,
+['Kmp'],['Šva'],['Kuc'],"['Sko', 'Maj']",['Pěn'],['Mac'],,,
+"['Vac', 'Kaj']",['Kmp'],"['Pěn', 'Pin']","['Kuc', 'Pěn']","['Kuc', 'Pin']",['Pro'],,,
+
+['Win'],['Tes'],['Pro'],"['Bab', 'Šva']","['Tol', 'Ute']","['Hru', 'Tol', 'Kuc', 'Sch']","['Hru', 'Tol', 'Kuc', 'Sch']",,
+"['Che', 'Ute']",['Klo'],"['Tes', 'Win']","['Tes', 'Win']",['Koz'],,"['Bab', 'Šva']","['Koz', 'Bri']","['Koz', 'Bri']"
+['Bri'],['Koz'],"['Tol', 'Šob']",['Tes'],['Wal'],"['Jin', 'Šob']","['Jin', 'Šob']",,
+"['Pav', 'Šed', 'Prv', 'Štu', 'Sto']","['Pav', 'Šed', 'Prv', 'Štu', 'Sto']",['Bri'],['Tes'],,"['Tol', 'Šob']","['Bab', 'Šva']",['Klo'],['Klo']
+['Pro'],['Klo'],"['Tol', 'Šob']",['Cón'],['Win'],"['Bab', 'Šva']","['Bab', 'Wal']",,
+
+['Mer'],"['Bab', 'Tol']","['Hru', 'Maj']",['Dra'],['Bab'],"['Čer', 'Hru', 'Tol', 'Bri', 'Sch']","['Čer', 'Hru', 'Tol', 'Bri', 'Sch']",,
+['Háj'],"['Bab', 'Tol']",['Mer'],['Šte'],,"['Tol', 'Koz']","['Tol', 'Koz']"
+['Mac'],['Šte'],"['Hru', 'Maj']",['Dra'],,"['Bab', 'Tol']",['Šte'],['Pán'],['Pán']
+['Bab'],"['Bab', 'Tol']",['Háj'],['Klo'],,"['Šte', 'Dra', 'Šte', 'Dra']",['Mer'],"['Klo', 'Cón']","['Klo', 'Cón']"
+"['Hru', 'Maj']","['Mer', 'Šte']",['Šte'],['Mac'],"['Mer', 'Šte']","['Tol', 'Bri', 'Sch']","['Tol', 'Bri', 'Sch']",,
+
+"['Lis', 'Šil']",['Lis'],['Ran'],"['Jin', 'Wag']","['Jin', 'Wag']","['Lis', 'Šil']","['Dra', 'Kmp', 'Mar']",,
+['Lis'],['Sto'],"['Jin', 'Wag']",['Ran'],"['Mar', 'Pěn']",['Mac'],"['Jin', 'Wag']",,
+['Šil'],"['Jin', 'Wag']","['Štu', 'Pán']","['Štu', 'Pán']",['Lis'],['Kuc'],,,
+"['Cha', 'Ves', 'Cha', 'Ves']","['Cha', 'Ves', 'Cha', 'Ves']",['Pán'],"['Jin', 'Wag']",['Šil'],['Pro'],['Koz'],,
+['Šil'],['Pěn'],['Mac'],"['Jin', 'Wag']",['Pán'],['Lis'],['Lis'],,
+
+['Dra'],['Kut'],['Hor'],['Ran'],['Koz'],"['Wag', 'Dav']","['Dra', 'Kmp', 'Mar']",,
+['Koz'],"['Kaj', 'Boř']",['Ran'],"['Mar', 'Pěn']",['Kut'],"['Pud', 'Ves', 'Pud', 'Ves']","['Pud', 'Ves', 'Pud', 'Ves']",,
+"['Kut', 'Ran']","['Kut', 'Ran']","['Pro', 'Sto']","['Pro', 'Sto']",['Klo'],"['Pud', 'Kuc']",['Lis'],,
+['Dra'],['Ran'],['Kut'],"['Kaj', 'Boř']","['Wag', 'Dav']",['Pro'],['Koz'],,
+['Lis'],['Sto'],['Hor'],"['Kaj', 'Boř']",['Klo'],,,
+
+"['Čer', 'Hru']",['Win'],['Tes'],['Řeh'],"['Vac', 'Hru']","['Šob', 'Kut', 'Pěn']","['Šob', 'Kut', 'Pěn']",,
+['Hor'],['Řeh'],"['Vac', 'Hru']",,"['Boř', 'Sko']","['Kut', 'Vac', 'Win', 'Řeh']","['Kut', 'Vac', 'Win', 'Řeh']"
+"['Che', 'Ute']",['Win'],['Tes'],"['Čer', 'Ute']",['Řeh'],"['Hor', 'Mat']","['Hor', 'Mat']",,
+"['Vac', 'Hru']","['Řeh', 'Win']","['Řeh', 'Win']","['Čer', 'Hru']",,"['Čer', 'Hru']","['Čer', 'Hru']","['Kuc', 'Hor', 'Kmp', 'Tes']","['Kuc', 'Hor', 'Kmp', 'Tes']"
+"['Šob', 'Koh', 'Wal']","['Šob', 'Koh', 'Wal']","['Vac', 'Ute']",['Řeh'],['Řeh'],['Hor'],"['Čer', 'Hru']",,
+
+['Kut'],"['Wag', 'Šva']",['Nov'],"['Ere', 'Tol']",,"['Ute', 'Ran', 'Kut', 'Pěn']","['Ute', 'Ran', 'Kut', 'Pěn']",,
+['Kmp'],['Šva'],['Dra'],['Kut'],,"['Ere', 'Tol']",['Win'],"['Vac', 'Dra', 'Řeh', 'Pac']","['Vac', 'Dra', 'Řeh', 'Pac']"
+"['Štu', 'Šed', 'Pán', 'Pro']","['Štu', 'Šed', 'Pán', 'Pro']","['Wag', 'Šva']","['Ere', 'Tol']",['Nov'],"['Dra', 'Ran']","['Dra', 'Ran']",,
+"['Kut', 'Nov']","['Kut', 'Nov']",['Pro'],"['Ere', 'Tol']",['Dra'],,['Kmp'],"['Hor', 'Kmp', 'Tes']","['Hor', 'Kmp', 'Tes']"
+"['Šob', 'Koh', 'Nov', 'Wal']","['Šob', 'Koh', 'Nov', 'Wal']",['Win'],['Šva'],['Pro'],['Kut'],"['Wag', 'Šva']",,
+
+"['Kaj', 'Wal']",['Šil'],['Klo'],"['Hor', 'Ert', 'Hor', 'Ert']","['Kaj', 'Wal']",['Tes'],['Sto'],,
+['Klo'],['Hor'],['Wal'],['Ert'],"['Kaj', 'Wal']","['Kaj', 'Wal']",['Tes'],,
+"['Cha', 'Ves', 'Cha', 'Ves']","['Cha', 'Ves', 'Cha', 'Ves']",['Šil'],['Win'],['Tom'],"['Nov', 'Prv']",,,
+"['Kaj', 'Wal']",['Ert'],"['Štu', 'Pav']","['Štu', 'Pav']",['Tes'],['Šil'],['Wal'],,
+"['Tes', 'Mar']","['Mar', 'Šil']","['Lew', 'Wal']","['Tes', 'Šil']",,"['Kaj', 'Wal']",['Win'],,
+
+"['Cón', 'Kor']","['Háj', 'Cón']","['Háj', 'Cón']","['Cón', 'Kor']",['Bri'],['Mac'],"['Boř', 'Kaj']",,
+"['Maj', 'Hru']",['Háj'],['Šva'],['Cón'],"['Mac', 'Šte', 'Mac', 'Šte']","['Šed', 'Sto']",['Nov'],,
+['Šte'],['Kor'],"['Boř', 'Kaj']",['Háj'],['Tom'],['Prv'],,,
+['Šva'],['Kor'],"['Šed', 'Sto']","['Šed', 'Sto']","['Maj', 'Hru']",['Háj'],['Cón'],,
+['Háj'],"['Boř', 'Kaj']",['Bri'],['Kor'],"['Pud', 'Ves', 'Pud', 'Ves']","['Pud', 'Ves', 'Pud', 'Ves']",['Šte'],,
+
+"['Bab', 'Pud']",['Hor'],['Win'],['Pěn'],,"['Cha', 'Ves']","['Cha', 'Ves']",,
+['Tes'],"['Che', 'Ute']",['Šed'],"['Čer', 'Míš']",['Hor'],['Tes'],['Ert'],,
+['Tes'],"['Bab', 'Pud']",['Ert'],['Lis'],,"['Čer', 'Míš']",['Win'],,
+"['Čer', 'Míš']",['Pěn'],"['Bab', 'Pud']",['Lis'],,['Win'],['Tes'],"['Pro', 'Sto']","['Pro', 'Sto']"
+"['Cón', 'Win']","['Tes', 'Cón']",['Šed'],"['Bab', 'Pud']",,"['Cón', 'Win']","['Tes', 'Cón']",,
+
+['Pěn'],"['Míš', 'Fle']",['Lis'],"['Kaj', 'Pyt']","['Pán', 'Win', 'Pán', 'Win']",['Koz'],['Koz'],,
+"['Kaj', 'Pyt']","['Cón', 'Pěn']","['Cón', 'Pěn']",['Koz'],['Win'],['Pán'],['Lis'],,
+['Koz'],"['Kaj', 'Pyt']","['Cha', 'Ves']","['Cha', 'Ves']","['Míš', 'Fle']",['Mer'],,,
+"['Lis', 'Koz']","['Lis', 'Koz']",['Mer'],['Pro'],"['Míš', 'Fle']",['Pán'],"['Kaj', 'Pyt']",,
+['Pěn'],['Lis'],['Koz'],['Win'],,"['Štu', 'Pav']","['Štu', 'Pav']",,
+
+['Pav'],['Šte'],['Fle'],"['Čer', 'Šob']",,"['Pro', 'Štu']","['Pro', 'Štu']",,
+"['Cha', 'Beš']","['Cha', 'Beš']","['Pyt', 'Šob']",['Fle'],['Bri'],"['Čer', 'Šob']",['Pav'],,
+['Klo'],"['Che', 'Ute']",['Háj'],['Koz'],['Maj'],['Ute'],['Ute'],,
+"['Pyt', 'Šob']",['Šte'],"['Fle', 'Koz']","['Fle', 'Koz']","['Čer', 'Šob']","['Pěn', 'Mar']","['Pěn', 'Mar']",,
+['Bri'],['Koz'],['Maj'],['Klo'],"['Pyt', 'Šob']","['Lew', 'Kuc']","['Lew', 'Kuc']",,
+
+"['Ere', 'Boř']",['Ran'],['Kor'],"['Míš', 'Hru']",,['Pav'],['Kor'],,
+"['Kuc', 'Kor']","['Kuc', 'Kor']",['Mac'],"['Ere', 'Boř']",,"['Kor', 'Ran', 'Kor', 'Ran']",['Mer'],"['Pav', 'Šed']","['Pav', 'Šed']"
+['Pav'],['Kuc'],['Ran'],"['Míš', 'Hru']","['Cón', 'Mar']","['Cón', 'Mar']",,,
+['Kor'],['Mer'],['Kor'],['Háj'],"['Ere', 'Boř']",,['Mac'],"['Lew', 'Ute', 'Mar', 'Háj']","['Lew', 'Ute', 'Mar', 'Háj']"
+['Kuc'],"['Míš', 'Hru']","['Cha', 'Beš']","['Cha', 'Beš']",,"['Lew', 'Fle', 'Kuc', 'Šed', 'Sto']","['Lew', 'Fle', 'Kuc', 'Šed', 'Sto']",,
+
+['Šte'],"['Jin', 'Dav']",['Mac'],['Dav'],"['Pyt', 'Dav']","['Hru', 'Tol', 'Kuc', 'Bri', 'Sch']","['Hru', 'Tol', 'Kuc', 'Bri', 'Sch']",,
+['Cón'],['Koz'],"['Che', 'Ute']",['Lis'],,"['Jin', 'Ute']","['Šte', 'Bri', 'Šte', 'Bri']","['Koz', 'Bri']","['Koz', 'Bri']"
+"['Pán', 'Štu', 'Šed', 'Pro']","['Pán', 'Štu', 'Šed', 'Pro']","['Jin', 'Dav']",['Bri'],['Kut'],"['Pyt', 'Dav']",['Dav'],,
+['Šte'],['Mac'],['Dav'],"['Pyt', 'Ute']",['Koz'],,"['Jin', 'Dav']","['Klo', 'Cón']","['Klo', 'Cón']"
+"['Dav', 'Koz']",['Kut'],"['Bab', 'Šva']",['Bri'],"['Dav', 'Koz']","['Dav', 'Vac']","['Vac', 'Dav']",,
+
+['Hor'],['Kmp'],"['Jin', 'Pyt']",['Bri'],"['Míš', 'Fle']","['Čer', 'Hru', 'Tol', 'Bri', 'Sch']","['Čer', 'Hru', 'Tol', 'Bri', 'Sch']",,
+['Fle'],"['Jin', 'Pyt']",['Háj'],,['Klo'],"['Tol', 'Koz', 'Bri']","['Tol', 'Koz', 'Bri']"
+['Lis'],"['Fle', 'Bri']",['Klo'],['Kmp'],,"['Fle', 'Bri']","['Míš', 'Fle']",['Pán'],['Pán']
+['Bri'],['Fle'],['Klo'],['Hor'],,"['Jin', 'Pyt']",['Háj'],"['Klo', 'Cón']","['Klo', 'Cón']"
+['Fle'],"['Jin', 'Pyt']","['Míš', 'Fle']",['Lis'],"['Kmp', 'Hor', 'Kmp', 'Hor']","['Tol', 'Bri', 'Sch']","['Tol', 'Bri', 'Sch']",,
+
+['Dav'],['Dra'],"['Vac', 'Wag']",['Nov'],['Maj'],"['Šob', 'Ute', 'Ran', 'Kut', 'Pěn']","['Šob', 'Ute', 'Ran', 'Kut', 'Pěn']",,
+"['Boř', 'Wag']","['Dav', 'Nov']","['Dav', 'Nov']",['Háj'],"['Wag', 'Bab']","['Bab', 'Wag']",,"['Kut', 'Vac', 'Dra', 'Win', 'Řeh']","['Kut', 'Vac', 'Dra', 'Win', 'Řeh']"
+['Dra'],['Dav'],"['Che', 'Ute']","['Boř', 'Wag']",,"['Hor', 'Dra', 'Ran', 'Mat']","['Hor', 'Dra', 'Ran', 'Mat']",,
+"['Prv', 'Šed', 'Štu', 'Sto', 'Pav']","['Prv', 'Šed', 'Štu', 'Sto', 'Pav']","['Boř', 'Ute']",['Dav'],"['Vac', 'Ute']","['Boř', 'Wal']",,"['Kuc', 'Hor', 'Kmp', 'Tes']","['Kuc', 'Hor', 'Kmp', 'Tes']"
+"['Šob', 'Nov', 'Wal']","['Šob', 'Nov', 'Wal']",['Háj'],['Nov'],"['Vac', 'Wag']","['Boř', 'Wag']",['Maj'],,
+
+['Háj'],"['Wal', 'Šob']",['Šed'],['Kut'],,"['Šob', 'Ute', 'Kut', 'Pěn']","['Šob', 'Ute', 'Kut', 'Pěn']",,
+"['Wal', 'Šob']","['Bab', 'Jin']",['Řeh'],['Kmp'],,['Háj'],['Kmp'],"['Kut', 'Vac', 'Win', 'Řeh', 'Pac']","['Kut', 'Vac', 'Win', 'Řeh', 'Pac']"
+"['Háj', 'Kmp']","['Háj', 'Kmp']",['Šed'],"['Bab', 'Jin']",,"['Hor', 'Ran', 'Mat']","['Hor', 'Ran', 'Mat']",,
+"['Štu', 'Šed', 'Prv', 'Pav', 'Sto']","['Štu', 'Šed', 'Prv', 'Pav', 'Sto']",['Kmp'],"['Wal', 'Šob']","['Bab', 'Jin']",,['Kut'],"['Kuc', 'Hor', 'Kmp', 'Tes']","['Kuc', 'Hor', 'Kmp', 'Tes']"
+"['Šob', 'Koh', 'Nov', 'Wal']","['Šob', 'Koh', 'Nov', 'Wal']",['Kmp'],['Háj'],"['Bab', 'Jin']",,,,
+
